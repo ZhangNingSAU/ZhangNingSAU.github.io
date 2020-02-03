@@ -189,6 +189,15 @@ td.onedayhw {
 	font-weight:bold;		
 }
 
+/* --------------- exam --------------- */
+
+.exam {
+	/* background-color: #; */ /*see individual page for color*/
+	text-align:center;
+    vertical-align:middle;
+	font-weight:bold;		
+}
+
 /* Prayer Before Study */
 div.prayer {
 	margin: 3em;
